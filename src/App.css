@@ -110,14 +110,14 @@
         height: 30%;
     }
     .button {
-        height: 690px;
+        height: 190px;
       }
         
   }
 
   @media only screen and (max-width: 948px) {
     .button {
-        height: 690px !important;
+        height: 610px !important;
       }
         
   }
